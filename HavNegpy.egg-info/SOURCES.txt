@@ -21,7 +21,7 @@ HavNegpy/__pycache__/_hn_deri.cpython-39.pyc
 HavNegpy/__pycache__/conductivity.cpython-39.pyc
 HavNegpy/__pycache__/hn.cpython-39.pyc
 HavNegpy/__pycache__/hn_deri.cpython-39.pyc
-dist/HavNegpy-1.0.0.tar.gz
+HavNegpy/__pycache__/modulus.cpython-39.pyc
 docs/HN_tutorial.ipynb
 docs/Makefile
 docs/cond_tutorial_new.ipynb
@@ -34,6 +34,7 @@ docs/index.rst
 docs/installation.rst
 docs/intro.rst
 docs/make.bat
+docs/modulus.rst
 docs/requirements.txt
 docs/_build/doctrees/Deri_HN_tutorial.doctree
 docs/_build/doctrees/HN_tutorial.doctree
@@ -48,6 +49,7 @@ docs/_build/doctrees/hn_module_tutorial.doctree
 docs/_build/doctrees/index.doctree
 docs/_build/doctrees/installation.doctree
 docs/_build/doctrees/intro.doctree
+docs/_build/doctrees/modulus.doctree
 docs/_build/doctrees/new_index.doctree
 docs/_build/doctrees/reference.doctree
 docs/_build/doctrees/_build/doctrees/nbsphinx/Tutorial_HN_module.doctree
@@ -202,6 +204,7 @@ docs/_build/html/hn.html
 docs/_build/html/index.html
 docs/_build/html/installation.html
 docs/_build/html/intro.html
+docs/_build/html/modulus.html
 docs/_build/html/objects.inv
 docs/_build/html/search.html
 docs/_build/html/searchindex.js
@@ -343,6 +346,7 @@ docs/_build/html/_modules/HavNegpy/_hn_deri.html
 docs/_build/html/_modules/HavNegpy/conductivity.html
 docs/_build/html/_modules/HavNegpy/hn.html
 docs/_build/html/_modules/HavNegpy/hn_deri.html
+docs/_build/html/_modules/HavNegpy/modulus.html
 docs/_build/html/_sources/Deri_HN_tutorial.ipynb.txt
 docs/_build/html/_sources/HN_tutorial.ipynb.txt
 docs/_build/html/_sources/Tutorial_HN_module.ipynb.txt
@@ -355,6 +359,7 @@ docs/_build/html/_sources/hn_module_tutorial.ipynb.txt
 docs/_build/html/_sources/index.rst.txt
 docs/_build/html/_sources/installation.rst.txt
 docs/_build/html/_sources/intro.rst.txt
+docs/_build/html/_sources/modulus.rst.txt
 docs/_build/html/_sources/new_index.rst.txt
 docs/_build/html/_sources/reference.rst.txt
 docs/_build/html/_sources/_build/doctrees/nbsphinx/Tutorial_HN_module.ipynb.txt

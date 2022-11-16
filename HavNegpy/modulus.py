@@ -17,7 +17,7 @@ import json
 
 class Modulus:
     """
-    A class to analyze real part of complex conductivity
+    A class to analyze imaginary part of the complex electric modulus
     
     
     """
